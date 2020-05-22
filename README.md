@@ -16,7 +16,8 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
+Remember, today is the tomorrow you worried about yesterday.
+- Dale Carnegie
 
 ## Need inspiration?
 
